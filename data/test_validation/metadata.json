@@ -1,0 +1,12 @@
+{
+  "n_samples": 100,
+  "n_features": 5,
+  "n_clusters": 3,
+  "cluster_std": 1.0,
+  "realistic": false,
+  "random_state": 42,
+  "data_shape": [
+    100,
+    5
+  ]
+}
