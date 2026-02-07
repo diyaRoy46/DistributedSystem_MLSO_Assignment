@@ -7,7 +7,7 @@
 ## Team Members
 - Thomala Priyank Kumar (2024AC05058)
 - Diya Roy (2024AC05018)
-- Rag Singha (2024AC05771)
+- Raj Singha (2024AC05771)
 - Sayyad Saddamhusen M. (2024AC05017)
 - Bhosale Abhishek M. (2024AC05766)
 
@@ -177,3 +177,4 @@ This project is developed for academic purposes as part of the ML System Optimiz
 
 For questions or issues, please contact:
 - Thomala Priyank Kumar: 2024ac05058@wilp.bits-pilani.ac.in
+
